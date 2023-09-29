@@ -53,19 +53,6 @@
 
 These are my latest posts on [Medium](https://medium.com/@abhid1211996).
 
-### Medium
-
-<!-- MEDIUM:START -->
-
-- [Why asynchronous code matters in Flutter?](https://medium.com/@iampradyuman18/why-asynchronous-code-matters-in-flutter-66c37ba9e43d)
-- [Understanding BuildContext in Flutter](https://medium.com/@iampradyuman18/understanding-buildcontext-in-flutter-194e4f619319)
-- [Dart Sound typing and Sound null safety!!!](https://medium.com/@iampradyuman18/dart-sound-typing-and-sound-null-safety-5f00f3625ce3)
-- [Flutter architecture!!!](https://medium.com/@iampradyuman18/flutter-architecture-a6341ce74226)
-- [What is clean architecture?](https://medium.com/@iampradyuman18/what-is-clean-architecture-11cad7a7e012)
-    <!-- MEDIUM:END -->
-    <!--
-  <!--
-
 ## 📈 Statistics
 
 <br/>
