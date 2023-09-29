@@ -32,8 +32,8 @@
 
 ### 💻 &nbsp;Languages:
 
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![DotNet](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=javascript)&nbsp;
+![DotNet](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
