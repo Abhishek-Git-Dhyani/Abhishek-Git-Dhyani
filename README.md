@@ -51,7 +51,7 @@
 
 ## 📝 Latest Blog Posts
 
-These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
+These are my latest posts on [Medium](https://medium.com/@abhid1211996).
 
 ### Medium
 
