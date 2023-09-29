@@ -19,12 +19,11 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>👋 &nbsp;Hi there! I'm Pradyuman, a Backend Developer.</p>
+<p>👋 &nbsp;Hi there! I'm Abhishek, a DotNet Developer.</p>
 <p>🔍 &nbsp;I'm actively seeking roles as a Backend Developer or Software Developer, with a focus on low latency and FullStack projects.</p>
-<p>🚀 &nbsp;My technical skillset includes JavaScript, C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
-<p>🌱 &nbsp;Currently, I'm working on building my expertise in the field of Web Development and expanding my knowledge of advanced algorithms and data structures.</p>
-<p>💼 &nbsp;In the past, I have worked as a Campus Ambassador at IIT Bombay E-Cell and as a Intern for Lead & Sales.</p>
-<p>📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/1CjaZDKYn0VL0RqK8RA8ceJZBpvBE7lty/view?usp=sharing">Resume</a> for more information about my experience and skills.</p>
+<p>🚀 &nbsp;My technical skillset includes DotNet, C#, Angular, Mssql , and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
+<p>🌱 &nbsp;Currently, I'm working on building my expertise in the field of Web Development.</p>
+<p>📄 &nbsp;Please check out my <a href="">PortFolio</a> for more information about my experience and skills.</p>
 <p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
 
 <br />
