@@ -32,10 +32,10 @@
 
 ### 💻 &nbsp;Languages:
 
-<img src="https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet" alt=".NET" width="150" height="50">&nbsp;
-<img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp" alt=".NET" width="150" height="50">&nbsp;
-<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt=".NET" width="150" height="50">&nbsp;
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt=".NET" width="150" height="50">&nbsp;
+<img src="https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet" alt=".NET" style="font-size:30px">&nbsp;
+<img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp" alt="C#" width="150" height="50">&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="typeScript" width="150" height="50">&nbsp;
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="python" width="150" height="50">&nbsp;
 
 ### 🚀 &nbsp;Technologies:
 
