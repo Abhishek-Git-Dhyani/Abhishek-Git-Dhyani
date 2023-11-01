@@ -1,81 +1,60 @@
-<p align="center">
-  <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" alt="En1y" />
-</p>
-<p align="center">
-	<a href="https://www.linkedin.com/in/abhishek-dhyani-a74abb112/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-  <a href="https://leetcode.com/abhid1211996/">
-		<img src="https://img.shields.io/badge/leetcode-ffffff?style=for-the-badge&logo=leetcode&logoColor=black" />
-	</a>
-	<a href="mailto:abhid1211996@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=Abhishek-Git-Dhyani&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+###
 
-## 👨🏻‍💻 &nbsp;About Me:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Git-Dhyani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Git-Dhyani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p>👋 &nbsp;Hi there! I'm Abhishek, a DotNet Developer.</p>
-<p>🔍 &nbsp;I'm actively seeking roles as a Backend Developer or Software Developer, with a focus on low latency and FullStack projects.</p>
-<p>🚀 &nbsp;My technical skillset includes DotNet, C#, Angular, Mssql , and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
-<p>🌱 &nbsp;Currently, I'm working on building my expertise in the field of Web Development.</p>
-<p>📄 &nbsp;Please check out my <a href="">PortFolio</a> for more information about my experience and skills.</p>
-<p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
+###
 
-<br />
+<img align="right" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocJ80aCSVCVWSXEyQQG8OTZEbkxT3FxozrhclNZ8xvnaRto=s432-c-no"  />
 
-## 🛠 &nbsp;Tech Stack:
+###
 
-### 💻 &nbsp;Languages:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+</div>
 
-<img src="https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet" alt=".NET" width="150" height="50">&nbsp;
-<img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp" alt="C#" width="150" height="50">&nbsp;
-<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="typeScript" width="150" height="50">&nbsp;
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="python" width="150" height="50">&nbsp;
+###
 
-### 🚀 &nbsp;Technologies:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+</div>
 
+###
 
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio)&nbsp;
+<br clear="both">
 
-<hr />
+<img src="https://raw.githubusercontent.com/Abhishek-Git-Dhyani/Abhishek-Git-Dhyani/output/snake.svg" alt="Snake animation" />
 
-## 📝 Latest Blog Posts
+###
 
-These are my latest posts on [Medium](https://medium.com/@abhishekdhyani).
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Abhishek-Git-Dhyani/count.svg?"  />
+</div>
 
-## 📈 Statistics
-
-<br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Git-Dhyani&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Git-Dhyani&hide_border=true&theme=dark&show_icons=true" />
-</p> --> -->
-
-<hr />
-
-## 📕 Pinned Repositories
-
-<p align="center">
-	<a href="https://github.com/pradyumantomar/CodeFusion">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=CodeFusion&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/pradyumantomar/ShareMe">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=ShareMe&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/pradyumantomar/Travel_Buddy_ReactNative">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=Travel_Buddy_ReactNative&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-    <a href="https://github.com/pradyumantomar/pradyumantomar">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=pradyumantomar&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-</p>
+###
